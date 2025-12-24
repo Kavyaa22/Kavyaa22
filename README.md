@@ -1,4 +1,4 @@
-## Hi there 👋
+[![An image of @kavyaa22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavyaa22)](https://holopin.io/@kavyaa22)
 
 <!--
 **Kavyaa22/Kavyaa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
